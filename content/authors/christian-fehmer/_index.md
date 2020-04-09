@@ -1,9 +1,9 @@
 ---
 title: Christian Fehmer
 bio: |
-  Christian is a passionate software engineer from Cologne, Germany
+  Hi, I'm a passionate software engineer and all about optimising my workflows. Keyboards are an important part in that.
 avatar: https://www.fehmer.info/images/avatar.jpg
-featured: false
+featured: true
 social:
   - title: github
     url: https://github.com/fehmer
