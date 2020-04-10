@@ -14,11 +14,11 @@ Custom build 60% keyboard with Zealio V1 switches and a wodden case. Build start
 
 | | |
 |---------------------|-----------------------------------------------------------------------------------------------|
-| **Model** no. | 1976 Custom Sixty |
+| **Model no.** | 1976 Custom Sixty |
 | **Manufacturer** | Custom |
-| **Manufacture** Date | 2017 - 2019 |
-| **Case** | commercial CNC milled walnut |
-| **Plate** | commercial CNC milled 2mm brass |
+| **Manufacture Date** | 2017 - 2019 |
+| **Case** | CNC milled walnut |
+| **Plate** | CNC milled 2mm brass |
 | **Switches** | Zealio V2 65 gram |
 | **Keycaps** | SA 1976 |
 | **Dimensions** | 300 × 115 × 30 mm |

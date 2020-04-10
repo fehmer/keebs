@@ -5,6 +5,8 @@ bio: |
 avatar: https://www.fehmer.info/images/avatar.jpg
 featured: true
 social:
+  - title: www
+    url: https://fehmer.info
   - title: github
     url: https://github.com/fehmer
   - title: npm

@@ -5,6 +5,7 @@ theme: "novela"
 pygmentsstyle: 'monokai'
 paginate: 6
 social:
+    www: "https://fehmer.info"
     github: "https://github.com/fehmer"
     npm: "https://www.npmjs.com/~fehmer"
     xing: "https://www.xing.com/profile/Christian_Fehmer"

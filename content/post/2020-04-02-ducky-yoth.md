@@ -14,9 +14,9 @@ authors:
 
 | | |
 |---------------------|-----------------------------------------------------------------------------------------------|
-| **Model** no. | Year of the Horse |
+| **Model no.** | Year of the Horse |
 | **Manufacturer** | Ducky |
-| **Manufacture** Date | 2014 |
+| **Manufacture Date** | 2014 |
 | **Case** | Two peace [milled](https://www.youtube.com/watch?v=IHHBqqQJ2Zs) aluminium |
 | **Switches** | Cherry MX Blue |
 | **Keycaps** | GMK Laser |
