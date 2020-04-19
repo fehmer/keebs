@@ -3,7 +3,7 @@ title: Christian Fehmer
 bio: |
   Hi, I'm a passionate software engineer and all about optimising my workflows. Keyboards are an important part in that.
 avatar: https://www.fehmer.info/images/avatar.jpg
-featured: true
+featured: false
 social:
   - title: www
     url: https://fehmer.info
