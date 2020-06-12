@@ -1,7 +1,7 @@
 ---
 title: 1976 Custom Sixty
 date: 2020-04-04
-hero: /images/dz60/hero.jpg
+hero: https://static.keebs.fehmer.info/images/dz60/hero.jpg
 excerpt: Custom build 60% keyboard with Zealio V2 switches and a wodden case.
 authors:
   - Christian Fehmer
@@ -42,14 +42,14 @@ In 2019 I updated the keyboard with a DZ60 PCB, Zealios V2 65g and a brass switc
 The layout is a modified 60% german-ISO layout. The function layer key is mapped to the `Caps Lock` key.
 
 <div class="Image__Medium">
-  <img src="/images/dz60/layer-qwertz.png"  />
+  <img src="https://static.keebs.fehmer.info/images/dz60/layer-qwertz.png"  />
 </div>
 
 
 The single function layer is inspired by the [Ducky YotH](/post/2020-04-02-ducky-yoth/) layout. Some keys on the right side are moved one key to the right.
 
 <div class="Image__Medium">
-  <img src="/images/dz60/layer-fn1.png"  />
+  <img src="https://static.keebs.fehmer.info/images/dz60/layer-fn1.png"  />
 </div>
 
 ## Firmware
@@ -60,15 +60,15 @@ I am using QMK with this [config](https://github.com/fehmer/qmk_firmware/tree/fe
 
 
 <div class="Image__Large">
-  <img src="/images/dz60/1.jpg"  />
+  <img src="https://static.keebs.fehmer.info/images/dz60/1.jpg"  />
 </div>
 
 <div class="Image__Large">
-  <img src="/images/dz60/2.jpg"  />
+  <img src="https://static.keebs.fehmer.info/images/dz60/2.jpg"  />
 </div>
 
 Foto of the initial build back in 2015.
 
 <div class="Image__Large">
-  <img src="/images/dz60/3.jpg"  />
+  <img src="https://static.keebs.fehmer.info/images/dz60/3.jpg"  />
 </div>
