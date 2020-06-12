@@ -1,7 +1,7 @@
 ---
 title: Ducky Year of the Horse
 date: 2020-04-02
-hero: /images/ducky/hero.jpg
+hero: https://static.keebs.fehmer.info/images/ducky/hero.jpg
 excerpt: 2014 edition of the ducky limited chinese zodiac edition was my first 60% keyboard and the first (and last?) non-programmable one.
 authors:
   - Christian Fehmer
@@ -49,13 +49,13 @@ Since this keyboard is not progammable its using the default, german-ISO layout.
 
 
 <div class="Image__Large">
-  <img src="/images/ducky/1.jpg"  />
+  <img src="https://static.keebs.fehmer.info/images/ducky/1.jpg"  />
 </div>
 
 <div class="Image__Large">
-  <img src="/images/ducky/2.jpg"  />
+  <img src="https://static.keebs.fehmer.info/images/ducky/2.jpg"  />
 </div>
 
 <div class="Image__Large">
-  <img src="/images/ducky/3.jpg"  />
+  <img src="https://static.keebs.fehmer.info/images/ducky/3.jpg"  />
 </div>
