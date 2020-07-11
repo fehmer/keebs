@@ -42,14 +42,20 @@ In 2019 I updated the keyboard with a DZ60 PCB, Zealios V2 65g and a brass switc
 The layout is a modified 60% german-ISO layout. The function layer key is mapped to the `Caps Lock` key.
 
 <div class="Image__Medium">
-  <img src="https://static.keebs.fehmer.info/images/dz60/layer-qwertz.png"  />
+  <img src="https://github.com/fehmer/qmk_firmware/raw/fehmer/keyboards/dz60/keymaps/fehmer/docs/layer-qwertz-render.png"  />
 </div>
 
 
-The single function layer is inspired by the [Ducky YotH](/post/2020-04-02-ducky-yoth/) layout. Some keys on the right side are moved one key to the right.
+The function layer is inspired by the [Ducky YotH](/post/2020-04-02-ducky-yoth/) layout. Some keys on the right side are moved one key to the right. `ctrl-1`, a shotcut I use frequently in my IDE is in a very convenient place.
 
 <div class="Image__Medium">
-  <img src="https://static.keebs.fehmer.info/images/dz60/layer-fn1.png"  />
+  <img src="https://github.com/fehmer/qmk_firmware/raw/fehmer/keyboards/dz60/keymaps/fehmer/docs/layer-fn1-render.png"  />
+</div>
+
+Lately I added a custom Alt-Gr layer to access different type of brackets more easily. This is inispired by the layout of my [OLKB Planck](https://keebs.fehmer.info/post/2020-04-05-planck/#layouts).
+
+<div class="Image__Medium">
+  <img src="https://github.com/fehmer/qmk_firmware/raw/fehmer/keyboards/dz60/keymaps/fehmer/docs/layer-altgr-render.png"  />
 </div>
 
 ## Firmware
