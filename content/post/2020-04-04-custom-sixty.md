@@ -5,6 +5,7 @@ hero: https://static.keebs.fehmer.info/images/dz60/hero.jpg
 excerpt: Custom build 60% keyboard with Zealio V2 switches and a wodden case.
 authors:
   - Christian Fehmer
+author: christian
 
 ---
 

@@ -5,7 +5,7 @@ hero: https://static.keebs.fehmer.info/images/ducky/hero.jpg
 excerpt: 2014 edition of the ducky limited chinese zodiac edition was my first 60% keyboard and the first (and last?) non-programmable one.
 authors:
   - Christian Fehmer
-
+author: christian
 ---
 
 2014 edition of the ducky limited chinese zodiac edition was my first 60% keyboard and the first (and last?) non-programmable one. In 2017 I replaced the default keycaps with GMK Laser.
