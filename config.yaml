@@ -1,9 +1,9 @@
 baseURL: "https://keebs.fehmer.info/"
 languageCode: "en-us"
-title: "keebs.fehmer.info"
-theme: "novela"
+title: "keebs/fehmer.info"
+theme: "terminal"
 pygmentsstyle: 'monokai'
-paginate: 6
+paginate: 9999
 social:
     www: "https://fehmer.info"
     github: "https://github.com/fehmer"
@@ -16,3 +16,19 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+params:
+  favicon: images/favicon.svg
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName: post
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor: pink
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems: 3
+  # show selector to switch language
+  showLanguageSelector: false
+  # set theme to full screen width
+  fullWidthTheme: false
+  # center theme with default width
+  centerTheme: false
+

@@ -6,4 +6,5 @@ hero: ""
 excerpt: ""
 authors:
   - Christian Fehmer
+author: christian
 ---
