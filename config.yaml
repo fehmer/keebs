@@ -1,4 +1,5 @@
 baseURL: "https://keebs.fehmer.info/"
+canonifyURLs: false
 languageCode: "en-us"
 title: "keebs/fehmer.info"
 theme: "terminal"
