@@ -1,7 +1,7 @@
 ---
 title: 1976 Custom Sixty
 date: 2020-04-04
-hero: https://static.keebs.fehmer.info/images/dz60/hero.jpg.webp
+hero: /images/dz60/hero.jpg.webp
 excerpt: Custom build 60% keyboard with Zealio V2 switches and a wodden case.
 authors:
   - Christian Fehmer
@@ -67,15 +67,15 @@ I am using QMK with this [config](https://github.com/fehmer/qmk_firmware/tree/fe
 
 
 <div class="Image__Large">
-  <img src="https://static.keebs.fehmer.info/images/dz60/1.jpg.webp"  />
+  <img src="/images/dz60/1.jpg.webp"  />
 </div>
 
 <div class="Image__Large">
-  <img src="https://static.keebs.fehmer.info/images/dz60/2.jpg.webp"  />
+  <img src="/images/dz60/2.jpg.webp"  />
 </div>
 
 Foto of the initial build back in 2015.
 
 <div class="Image__Large">
-  <img src="https://static.keebs.fehmer.info/images/dz60/3.jpg.webp"  />
+  <img src="/images/dz60/3.jpg.webp"  />
 </div>

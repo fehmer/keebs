@@ -1,7 +1,7 @@
 ---
 title: Lumberjack Piet
 date: 2022-05-21
-hero: https://static.keebs.fehmer.info/images/piet/hero.jpg.webp
+hero: /images/piet/hero.jpg.webp
 excerpt: a THT 60 keys ortholinear keyboard
 authors:
   - Christian Fehmer
@@ -47,17 +47,17 @@ I am using QMK with this [config](https://github.com/fehmer/qmk_firmware/tree/fe
 
 
 <div class="Image__Large">
-  <img src="https://static.keebs.fehmer.info/images/piet/1.jpg.webp"  />
+  <img src="/images/piet/1.jpg.webp"  />
 </div>
 
 <div class="Image__Large">
-  <img src="https://static.keebs.fehmer.info/images/piet/4.jpg.webp"  />
+  <img src="/images/piet/4.jpg.webp"  />
 </div>
 
 <div class="Image__Large">
-  <img src="https://static.keebs.fehmer.info/images/piet/5.jpg.webp"  />
+  <img src="/images/piet/5.jpg.webp"  />
 </div>
 
 <div class="Image__Large">
-  <img src="https://static.keebs.fehmer.info/images/piet/6.jpg.webp"  />
+  <img src="/images/piet/6.jpg.webp"  />
 </div>

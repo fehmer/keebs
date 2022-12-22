@@ -1,7 +1,7 @@
 ---
 title: Filco Majestouch 2
 date: 2020-04-01
-hero: https://static.keebs.fehmer.info/images/filco/hero.jpg.webp
+hero: /images/filco/hero.jpg.webp
 excerpt: My first modern mechanical keyboard
 authors:
   - Christian Fehmer
@@ -30,5 +30,5 @@ Much later, already deeper in the hobby, I replaced the controller with bathroom
 ## Images
 
 <div class="Image__Large">
-  <img src="https://static.keebs.fehmer.info/images/filco/1.jpg.webp"  />
+  <img src="/images/filco/1.jpg.webp"  />
 </div>
