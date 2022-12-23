@@ -39,7 +39,11 @@ After a few days of getting used to it I was hooked on the 60% layout and stuck 
 
 from [xkcd](https://xkcd.com/1205/)
 
+## Sounds
 
+| Switch | Keycaps ||
+|----------|-----------|--|
+| Cherry MX blue | GMK | {{< audio src="/sounds/ducky/mxblue-gmk.mp3" >}} 
 
 ## Layouts
 

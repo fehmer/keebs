@@ -35,6 +35,12 @@ In early 2021 I missed the first round of the [Lumberjack](https://github.com/pe
 
 This keyboard is meant to be a fun and unique project, so I went all-in and tried to do things different then normal. So instead of using tactile switches and high-profile keycaps I picked linear low-profile choc switches with matching low-profile keycaps. Since there is a very limited offer for such keycaps I had to get creative to avoid the typical all-white or all-black, no legends low profile look. With the lumberjack already having its roots in the Netherlands it feels appropriate to imitate the art of Piet Mondrian. Did you know there is a [programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language#Piet) named after him?
 
+## Sounds
+
+| Switch | Keycaps ||
+|----------|-----------|--|
+| Kalih Choc Silver | MBK Choc Low Profile | {{< audio src="/sounds/piet/chocsilver-mbklowprofile.mp3" >}} 
+
 ## Layouts
 
 Same as my [first planck](/post/2020-04-05-planck/).

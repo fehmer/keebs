@@ -36,10 +36,13 @@ Than I got aware of the project to rebuild of the F62 and F77. Already using oth
 
 In April 2022 it finally arrived. The keyboard is exceptionally well build (look at the weight) and arrived in full working state. It lools beautiful, is nice to type on and the sound is great. Except the spacebar, but there is documentation on how to improve it. While the layout would have been perfect in 2017 I switched to ortholinear in early 2019 and only used this keyboard for a couple of hours. 
 
+## Sounds
+
+| Switch | Keycaps ||
+|----------|-----------|--|
+| Buckling Spring | Stock | {{< audio src="/sounds/newmodelf/bucklingspring-stock.mp3" >}} 
 
 ## Images
-
-
 <div class="Image__Large">
   <img src="/images/newmodelf/1.jpg.webp"  />
 </div>

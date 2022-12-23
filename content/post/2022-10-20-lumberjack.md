@@ -33,6 +33,13 @@ My second [THT](https://en.wikipedia.org/wiki/Through-hole_technology) build. I 
 
 This is the first time I used [Mill Max Sockets](https://www.mill-max.com/products/new/pcb-sockets-and-micro-plugs) to make a non-hot-swappable PCB hot-swappable. I used a sacrificial switch to get the alignments right. It was quite an easy job, I only messed up two sockets soldering the switch to the socket.
 
+
+## Sounds
+
+| Switch | Keycaps ||
+|----------|-----------|--|
+| Novelkeys Blueberry | SA | {{< audio src="/sounds/lumberjack/blueberry-sa.mp3" >}} 
+
 ## Layouts
 
 Same as my [first planck](/post/2020-04-05-planck/).
