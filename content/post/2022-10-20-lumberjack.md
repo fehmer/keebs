@@ -42,7 +42,9 @@ This is the first time I used [Mill Max Sockets](https://www.mill-max.com/produc
 
 ## Layouts
 
-Same as my [first planck](/post/2020-04-05-planck/).
+Similar to [first planck](/post/2020-04-05-planck/#layouts) but with some additional keys mapped on the first row.
+
+{{< kle src="lumberjack" cols="15" >}}
 
 ## Firmware
 

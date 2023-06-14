@@ -1,0 +1,393 @@
+{
+    "layers":
+    [
+         {
+            "name": "Qwertz",
+            "desc": "The default layer is mostly german-ISO. I use some combined keys with different keys for `tap` and `hold`. The `Return` key is `Shift` on hold, the `Tab` key activates the function layer on hold. `Esc` is toggling `Caps Lock` on double-tap.",
+            "layout":
+            [
+                [
+                    {
+                        "c": "#aeabb3",
+                        "a": 7
+                    },
+                    "Esc\n\n\n\nCpsLck",
+                    {
+                        "c": "#eee"
+                    },
+                    "Q",
+                    "W",
+                    "E",
+                    "R",
+                    "T",
+                    "Z",
+                    "U",
+                    "I",
+                    "O",
+                    "P",
+                    {
+                        "c": "#aeabb3"
+                    },
+                    "BS"
+                ],
+                [
+                    "Tab\n\n\n\nFn",
+                    {
+                        "c": "#eee"
+                    },
+                    "A",
+                    "S",
+                    "D",
+                    "F",
+                    "G",
+                    "H",
+                    "J",
+                    "K",
+                    "L",
+                    "+",
+                    {
+                        "c": "#aeabb3"
+                    },
+                    "#"
+                ],
+                [
+                    "Shift",
+                    {
+                        "c": "#eee"
+                    },
+                    "Y",
+                    "X",
+                    "C",
+                    "V",
+                    "B",
+                    "N",
+                    "M",
+                    ",",
+                    ".",
+                    "-",
+                    {
+                        "c": "#aeabb3"
+                    },
+                    "Enter\n\n\n\nShift"
+                ],
+                [
+                    "Ctrl",
+                    "Alt Shift",
+                    "Gui",
+                    "Alt",
+                    {
+                        "c": "#487c99"
+                    },
+                    "&dArr;",
+                    {
+                        "c": "#eee",
+                        "w": 2
+                    },
+                    "",
+                    {
+                        "c": "#ad640e"
+                    },
+                    "&uArr;",
+                    {
+                        "c": "#aeabb3"
+                    },
+                    "AlGr",
+                    "Gui",
+                    "Fn",
+                    "Ctrl"
+                ]
+            ]
+        },
+        {
+            "name": "Function",
+            "desc": "The function layer contains the navigation and arrow keys on the right hand. The arrow keys are directly on the homing key so they can be used by only moving my left pinky one key left.\n\nIn addition to the german \"umlaute\" and the `delete` key on `backspace` the shortcut `ctrl-1` I use in my IDE is in a very convenient place.",
+            "layout":
+            [
+                [
+                    {
+                        "c": "#aeabb3",
+                        "a": 7
+                    },
+                    "",
+                    {
+                        "c": "#eee"
+                    },
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "^&larr;",
+                    "&uarr;",
+                    "^&rarr;",
+                    "ü",
+                    {
+                        "c": "#aeabb3"
+                    },
+                    "Del"
+                ],
+                [
+                    "",
+                    {
+                        "c": "#eee"
+                    },
+                    "^1",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "PgUp",
+                    "&larr;",
+                    "&darr;",
+                    "&rarr;",
+                    "ö",
+                    {
+                        "c": "#aeabb3"
+                    },
+                    "ä"
+                ],
+                [
+                    "",
+                    {
+                        "c": "#eee"
+                    },
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "PgDn",
+                    "",
+                    "Home",
+                    "End",
+                    "ß",
+                    {
+                        "c": "#aeabb3"
+                    },
+                    ""
+                ],
+                [
+                    "",
+                    "Print",
+                    "Scroll",
+                    "Pause",
+                    {
+                        "c": "#487c99"
+                    },
+                    "",
+                    {
+                        "c": "#eee",
+                        "w": 2
+                    },
+                    "",
+                    {
+                        "c": "#ad640e"
+                    },
+                    "",
+                    {
+                        "c": "#aeabb3"
+                    },
+                    "▶️",
+                    "🔉",
+                    "",
+                    "🔊"
+                ]
+            ]
+        },
+        {
+            "name": "Lower (blue)",
+            "desc": "The lower layer contains the number keys in the orientation used on number pads on full-size keyboards. The `4` is on the homing-key instead of the `5` so I don't have to move the hand one key over to enter numbers.\n\n The function keys follow the same pattern on the left hand. In addition i added the `=` key on this layer.",
+            "layout":
+            [
+                [
+                    {
+                        "c": "#aeabb3",
+                        "a": 7
+                    },
+                    "^",
+                    {
+                        "c": "#eee"
+                    },
+                    "F7",
+                    "F8",
+                    "F9",
+                    "F12",
+                    "",
+                    "",
+                    "7",
+                    "8",
+                    "9",
+                    "=",
+                    {
+                        "c": "#aeabb3"
+                    },
+                    ""
+                ],
+                [
+                    "",
+                    {
+                        "c": "#eee"
+                    },
+                    "F4",
+                    "F5",
+                    "F6",
+                    "F11",
+                    "",
+                    "",
+                    "4",
+                    "5",
+                    "6",
+                    "",
+                    {
+                        "c": "#aeabb3"
+                    },
+                    "Ins"
+                ],
+                [
+                    "",
+                    {
+                        "c": "#eee"
+                    },
+                    "F1",
+                    "F2",
+                    "F3",
+                    "F10",
+                    "",
+                    "",
+                    "1",
+                    "2",
+                    "3",
+                    "",
+                    {
+                        "c": "#aeabb3"
+                    },
+                    ""
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    {
+                        "c": "#487c99"
+                    },
+                    "",
+                    {
+                        "c": "#eee",
+                        "w": 2
+                    },
+                    "",
+                    {
+                        "c": "#ad640e"
+                    },
+                    "0",
+                    {
+                        "c": "#aeabb3"
+                    },
+                    ",",
+                    ".",
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "name": "Raise (orange)",
+            "desc": "The raise layer contains the brackets/parathesis keys on the right hand in the order of frequency I use them and the `?`, `|` and `\\` keys. The top row follows the symbols as on full-sized keyboards.",
+            "layout":
+            [
+                [
+                    {
+                        "c": "#aeabb3",
+                        "a": 7
+                    },
+                    "°",
+                    {
+                        "c": "#eee"
+                    },
+                    "!",
+                    "\"",
+                    "§",
+                    "$",
+                    "%",
+                    "&",
+                    "/",
+                    "(",
+                    ")",
+                    "?",
+                    {
+                        "c": "#aeabb3"
+                    },
+                    ""
+                ],
+                [
+                    "",
+                    {
+                        "c": "#eee"
+                    },
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "{",
+                    "}",
+                    "´",
+                    {
+                        "c": "#aeabb3"
+                    },
+                    "\\"
+                ],
+                [
+                    "",
+                    {
+                        "c": "#eee"
+                    },
+                    "|",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "[",
+                    "]",
+                    "",
+                    {
+                        "c": "#aeabb3"
+                    },
+                    ""
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    {
+                        "c": "#487c99"
+                    },
+                    "",
+                    {
+                        "c": "#eee",
+                        "w": 2
+                    },
+                    "",
+                    {
+                        "c": "#ad640e"
+                    },
+                    "",
+                    {
+                        "c": "#aeabb3"
+                    },
+                    "<",
+                    ">",
+                    "",
+                    ""
+                ]
+            ]
+        }
+    ]
+}

@@ -43,7 +43,10 @@ This keyboard is meant to be a fun and unique project, so I went all-in and trie
 
 ## Layouts
 
-Same as my [first planck](/post/2020-04-05-planck/).
+Similar to [first planck](/post/2020-04-05-planck/#layouts) but with some additional keys mapped on the first row.
+
+{{< kle src="piet" cols="15" >}}
+
 
 ## Firmware
 
