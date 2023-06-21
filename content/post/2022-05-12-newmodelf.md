@@ -43,10 +43,5 @@ In April 2022 it finally arrived. The keyboard is exceptionally well build (look
 | Buckling Spring | Stock | {{< audio src="/sounds/newmodelf/bucklingspring-stock.mp3" >}} 
 
 ## Images
-<div class="Image__Large">
-  <img src="/images/newmodelf/1.jpg.webp"  />
-</div>
-
-<div class="Image__Large">
-  <img src="/images/newmodelf/2.jpg.webp"  />
-</div>
+{{<image src="images/newmodelf/1.jpg.webp" >}}
+{{<image src="images/newmodelf/2.jpg.webp" >}}

@@ -17,6 +17,10 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+module:
+  mounts:
+    - source: static
+      target: assets
 
 params:
   favicon: images/favicon.svg

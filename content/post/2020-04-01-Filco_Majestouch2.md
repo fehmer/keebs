@@ -29,6 +29,4 @@ Much later, already deeper in the hobby, I replaced the controller with bathroom
 
 ## Images
 
-<div class="Image__Large">
-  <img src="/images/filco/1.jpg.webp"  />
-</div>
+{{< image src="/images/filco/1.jpg.webp" >}}

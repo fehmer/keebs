@@ -49,16 +49,9 @@ I am using QMK with this [config](https://github.com/fehmer/qmk_firmware/tree/fe
 ## Images
 
 
-<div class="Image__Large">
-  <img src="/images/dz60/1.jpg.webp"  />
-</div>
-
-<div class="Image__Large">
-  <img src="/images/dz60/2.jpg.webp"  />
-</div>
+{{<image src="images/dz60/1.jpg.webp" >}}
+{{<image src="images/dz60/2.jpg.webp" >}}
 
 Foto of the initial build back in 2015.
 
-<div class="Image__Large">
-  <img src="/images/dz60/3.jpg.webp"  />
-</div>
+{{<image src="images/dz60/3.jpg.webp" >}}

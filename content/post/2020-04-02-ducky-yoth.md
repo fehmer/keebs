@@ -51,15 +51,6 @@ Since this keyboard is not progammable its using the default, german-ISO layout.
 
 ## Images
 
-
-<div class="Image__Large">
-  <img src="/images/ducky/1.jpg.webp"  />
-</div>
-
-<div class="Image__Large">
-  <img src="/images/ducky/2.jpg.webp"  />
-</div>
-
-<div class="Image__Large">
-  <img src="/images/ducky/3.jpg.webp"  />
-</div>
+{{< image src="/images/ducky/1.jpg.webp" >}}
+{{< image src="/images/ducky/2.jpg.webp" >}}
+{{< image src="/images/ducky/3.jpg.webp" >}}

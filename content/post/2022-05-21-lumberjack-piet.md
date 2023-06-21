@@ -55,18 +55,7 @@ I am using QMK with this [config](https://github.com/fehmer/qmk_firmware/tree/fe
 ## Images
 
 
-<div class="Image__Large">
-  <img src="/images/piet/1.jpg.webp"  />
-</div>
-
-<div class="Image__Large">
-  <img src="/images/piet/4.jpg.webp"  />
-</div>
-
-<div class="Image__Large">
-  <img src="/images/piet/5.jpg.webp"  />
-</div>
-
-<div class="Image__Large">
-  <img src="/images/piet/6.jpg.webp"  />
-</div>
+{{<image src="images/piet/1.jpg.webp" >}}
+{{<image src="images/piet/4.jpg.webp" >}}
+{{<image src="images/piet/5.jpg.webp" >}}
+{{<image src="images/piet/6.jpg.webp" >}}

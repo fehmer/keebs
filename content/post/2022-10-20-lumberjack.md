@@ -52,7 +52,4 @@ I am using QMK with this [config](https://github.com/fehmer/qmk_firmware/tree/fe
 
 ## Images
 
-
-<div class="Image__Large">
-  <img src="/images/lumberjack/1.jpg.webp"  />
-</div>
+{{<image src="images/lumberjack/1.jpg.webp" >}}
