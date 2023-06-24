@@ -2,38 +2,40 @@ baseURL: "https://keebs.fehmer.info/"
 canonifyURLs: false
 languageCode: "en-us"
 title: "keebs/fehmer.info"
-theme: "terminal"
-pygmentsstyle: 'monokai'
+theme: "hugo-theme-crt"
 paginate: 9999
-social:
-    www: "https://fehmer.info"
-    github: "https://github.com/fehmer"
-    npm: "https://www.npmjs.com/~fehmer"
-    xing: "https://www.xing.com/profile/Christian_Fehmer"
-    email: "mailto:keebs//at//fehmer//dot/info"
-taxonomies:
-  author: authors
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
+
 module:
   mounts:
     - source: static
       target: assets
 
 params:
-  favicon: images/favicon.svg
-  # dir name of your blog content (default is `content/posts`)
-  contentTypeName: post
-  # ["orange", "blue", "red", "green", "pink"]
-  themeColor: orange
-  # if you set this to 0, only submenu trigger will be visible
-  showMenuItems: 3
-  # show selector to switch language
-  showLanguageSelector: false
-  # set theme to full screen width
-  fullWidthTheme: false
-  # center theme with default width
-  centerTheme: false
-
+  # basepath for favicon
+  favicon: "https://fehmer.info"
+  links:
+    - href: "mailto:keebs//at//fehmer//dot/info"
+      title: "send a mail"
+      icon: email
+    - href: "https://github.com/fehmer"
+      title: "github profile"
+      icon: github
+    - href: "https://www.npmjs.com/~fehmer"
+      title: "npm profile"
+      icon: npm
+    - href: "https://fehmer.info"
+      title: "my homepage"
+      icon: homepage
+    - href: "https://www.xing.com/profile/Christian_Fehmer"
+      title: "xing profile"
+      icon: xing
+  style:
+    color_text: "#cccccc"
+    color_background: "#221b44"
+    color_link: "#34E2E2"
+    color_link_visited: "#1D96A5"
+    color_accent: "#e12067"
+    color_logo: "#1d96a5"
+    color_copyright: "#1d96a5"
+    color_hugo: "#86a900"
+    color_theme: "#D45400"
