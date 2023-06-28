@@ -39,3 +39,4 @@ params:
     color_copyright: "#1d96a5"
     color_hugo: "#86a900"
     color_theme: "#D45400"
+    color_monochrome: "false"
