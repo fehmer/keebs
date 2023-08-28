@@ -1,6 +1,6 @@
 ---
-title: Lumberjack
-date: 2022-10-20
+title: Freebird Lumberjack
+date: 2023-08-20
 hero: /images/lumberjack/hero.jpg.webp
 excerpt: a THT 60 keys ortholinear keyboard
 authors:
@@ -15,15 +15,15 @@ Building the [Piet](/post/2022-05-21-lumberjack-piet) was fun, but I cannot get 
 
 | | |
 |---------------------|-----------------------------------------------------------------------------------------------|
-| **Model no.** | Lumberjack |
+| **Model no.** | Freebird Lumberjack |
 | **Manufacturer** | custom |
-| **Manufacture Date** | 2022 |
-| **Case** | CNC milled walnut |
+| **Manufacture Date** | 2023 |
+| **Case** | Freebird60 e-white |
 | **Plate** | fr4 |
-| **Switches** | Novelkeys Blueberries |
-| **Keycaps** | SA Oblivion |
-| **Dimensions** | 300 × 115 × 30 mm |
-| **Weight** | 1000 gram |
+| **Switches** | Zealios V2 65gram |
+| **Keycaps** | MT3 Jukebox |
+| **Dimensions** | 295 × 105 × 30 mm |
+| **Weight** | 990 gram |
 | **PCB/Software** | lumberjack + QMK |
 
 
@@ -46,10 +46,9 @@ Similar to [first planck](/post/2020-04-05-planck/#layouts) but with some additi
 
 {{< kle src="lumberjack" cols="15" >}}
 
-## Firmware
-
-I am using QMK with this [config](https://github.com/fehmer/qmk_firmware/tree/fehmer/keyboards/peej/lumberjack/keymaps/fehmer).
-
 ## Images
 
 {{<image src="images/lumberjack/1.jpg.webp" >}}
+{{<image src="images/lumberjack/2.jpg.webp" >}}
+{{<image src="images/lumberjack/3.jpg.webp" >}}
+{{<image src="images/lumberjack/4.jpg.webp" >}}
