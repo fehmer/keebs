@@ -3,12 +3,17 @@ canonifyURLs: false
 languageCode: "en-us"
 title: "keebs/fehmer.info"
 theme: "hugo-theme-crt"
-paginate: 9999
+pagination:
+  pagerSize: 9999
 
 module:
   mounts:
     - source: static
       target: assets
+
+caches:
+  images:
+    dir: :cacheDir/images
 
 params:
   # basepath for favicon
