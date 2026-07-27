@@ -2,14 +2,14 @@
 title: 1976 Custom Sixty
 date: 2020-04-04
 hero: /images/dz60/hero.jpg.webp
-excerpt: Custom build 60% keyboard with Zealio V2 switches and a wodden case.
+excerpt: A custom build 60% keyboard with Zealio V2 switches and a wooden case.
 authors:
   - Christian Fehmer
 author: christian
 
 ---
 
-Custom build 60% keyboard with Zealio V1 switches and a wodden case. Build started in 2015 with a Satan 60 PCB and aluminium backplate and evolved in 2019 to the current state.
+A custom build 60% keyboard with Zealio V1 switches and a wooden case. Build started in 2015 with a Satan 60 PCB and aluminium backplate and evolved in 2019 to the current state.
 
 ## Facts 
 
@@ -23,7 +23,7 @@ Custom build 60% keyboard with Zealio V1 switches and a wodden case. Build start
 | **Switches** | Zealio V2 65 gram |
 | **Keycaps** | SA 1976 |
 | **Dimensions** | 300 × 115 × 30 mm |
-| **Weight** | 1100 gram |
+| **Weight** | 1100 grams |
 | **PCB/Software** | DZ60 + QMK |
 
 
@@ -31,7 +31,7 @@ Custom build 60% keyboard with Zealio V1 switches and a wodden case. Build start
 
 In 2015 the [Ducky YotH](/post/2020-04-02-ducky-yoth/) was my daily driver. After switching from MX Browns to MX Blues I still was not very happy with the weight of the switches and decided to build my custom keyboard. I wanted to keep the 60% form factor I really enjoyed but wanted to find more heavy tactile switches (I don't like the high pitched click of the cherries and wanted to be able to use the keyboard in an office environment).
 
-I bought Zealios V1 65g which seemed like a good tactile switch and combined it with a Satan 60, a wodden casing and a black aluminium backplate. I re-used the black and white keycaps from my Filco Majestouch. To improve the weight of the keyboard I added an additional 2mm steel backplate inside the wodden case.
+I bought Zealios V1 65g which seemed like a good tactile switch and combined it with a Satan 60, a wooden casing and a black aluminium backplate. I re-used the black and white keycaps from my Filco Majestouch. To improve the weight of the keyboard I added an additional 2mm steel backplate inside the wooden case.
 
 In 2016 I replaced the keycaps with SA 1976 which are still my favourite keycap set.
 
@@ -52,6 +52,6 @@ I am using QMK with this [config](https://github.com/fehmer/qmk_firmware/tree/fe
 {{<image src="images/dz60/1.jpg.webp" >}}
 {{<image src="images/dz60/2.jpg.webp" >}}
 
-Foto of the initial build back in 2015.
+Photo of the initial build back in 2015.
 
 {{<image src="images/dz60/3.jpg.webp" >}}
