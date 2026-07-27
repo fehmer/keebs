@@ -1,6 +1,6 @@
 baseURL: "https://keebs.fehmer.info/"
 canonifyURLs: false
-languageCode: "en-us"
+locale: "en-us"
 title: "keebs/fehmer.info"
 theme: "hugo-theme-crt"
 pagination:

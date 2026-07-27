@@ -15,19 +15,19 @@ Another Koneko, this time in blue and with a staggered layout.
 |                      |                                  |
 | -------------------- | -------------------------------- |
 | **Model no.**        | Koneko40                         |
-| **Manufacturer**     | Loards Boards                    |
+| **Manufacturer**     | Lords Boards                     |
 | **Manufacture Date** | 2024                             |
 | **Case**             | CNC'd aluminium                  |
 | **Plate**            | Aluminium                        |
 | **Switches**         | Gazzew Boba U4 68g               |
 | **Keycaps**          | GMK Yeeti                        |
 | **Dimensions**       | 240 x 90 x 35 mm                 |
-| **Weight**           | 860 gram                         |
-| **PCB/Software**     | Koneko pcb, mill-max'd, QMK/Vial |
+| **Weight**           | 860 grams                        |
+| **PCB/Software**     | Koneko PCB, Mill-Max'd, QMK/Vial |
 
 ## Highlights
 
-Blue version of the [Koneko40](/posts/2025-06-15-koneko-red). This one popped up for sale on the 40% discord one day for a good price and I couldn't resist.
+Blue version of the [Koneko40](/post/2025-06-15-koneko-red). This one popped up for sale on the 40% Discord one day for a good price and I couldn't resist.
 
 ## Images
 
