@@ -8,7 +8,7 @@ authors:
 author: christian
 ---
 
-The Koneko40 is a cute 40% keyboard made by Lords Boards. I found this one as an icon on the 40s Discord.
+The Koneko40 is a cute 40% keyboard made by Lords Boards. I found this one as an interest check on the 40s Discord.
 
 ## Facts
 
