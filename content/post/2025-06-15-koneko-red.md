@@ -8,7 +8,7 @@ authors:
 author: christian
 ---
 
-The Koneko40 is a cute 40% keyboard made by Lords Boards. I found this one as an IC on the 40s discord.
+The Koneko40 is a cute 40% keyboard made by Lords Boards. I found this one as an icon on the 40s Discord.
 
 ## Facts
 
@@ -22,8 +22,8 @@ The Koneko40 is a cute 40% keyboard made by Lords Boards. I found this one as an
 | **Switches**         | Gateron Melodic                  |
 | **Keycaps**          | PBS Blanks Black                 |
 | **Dimensions**       | 240 x 90 x 35 mm                 |
-| **Weight**           | 860 gram                         |
-| **PCB/Software**     | Koneko pcb, mill-max'd, QMK/Vial |
+| **Weight**           | 860 grams                        |
+| **PCB/Software**     | Koneko PCB, Mill-Max'd, QMK/Vial |
 
 ## Images
 
