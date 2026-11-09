@@ -45,3 +45,4 @@ params:
     color_hugo: "#86a900"
     color_theme: "#D45400"
     color_monochrome: "false"
+    color_crt_effect: "false"
